@@ -1,0 +1,3 @@
+C:/Users/kiyar/CLionProjects/C-Temel-Problemler/cmake-build-debug/CMakeFiles/problems.dir
+C:/Users/kiyar/CLionProjects/C-Temel-Problemler/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kiyar/CLionProjects/C-Temel-Problemler/cmake-build-debug/CMakeFiles/rebuild_cache.dir

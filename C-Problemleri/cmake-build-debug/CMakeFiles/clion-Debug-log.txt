@@ -1,0 +1,1 @@
+CMakeLists.txt not found in C:\Users\kiyar\CLionProjects\C-Temel-Problemler\C-Problemleri Select CMakeLists.txt

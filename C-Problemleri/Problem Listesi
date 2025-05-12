@@ -1,0 +1,73 @@
+C Programlama için 50 Problem
+
+Başlangıç Seviyesi (1-10)
+
+Merhaba Dünya: Ekrana "Merhaba, Dünya!" yazdıran bir program yazın.
+Toplama İşlemi: Kullanıcıdan iki tam sayı alıp toplamını ekrana yazdıran bir program yazın.
+Çift mi Tek mi?: Kullanıcıdan bir sayı alıp bunun çift mi tek mi olduğunu kontrol eden bir program yazın.
+Dikdörtgen Alanı: Kullanıcıdan dikdörtgenin kenar uzunluklarını alıp alanını hesaplayan bir program yazın.
+Sıcaklık Dönüşümü: Celsius cinsinden bir sıcaklığı Fahrenheit’a çeviren bir program yazın (F = C * 9/5 + 32).
+Sayının Karekökü: Kullanıcıdan bir sayı alıp karekökünü hesaplayan bir program yazın (math.h kütüphanesini kullanın).
+Swap Yapma: İki sayının değerini değiştiren (swap) bir program yazın (geçici bir değişken kullanarak).
+Üçgen Türü: Kullanıcıdan üçgenin üç kenarını alıp bunun eşkenar, ikizkenar ya da çeşitkenar olduğunu bulan bir program yazın.
+Basit Hesap Makinesi: Kullanıcıdan iki sayı ve bir işlem (+, -, *, /) alıp sonucu hesaplayan bir program yazın.
+Vize-Final Notu: Kullanıcıdan vize ve final notlarını alıp ortalamayı hesaplayan bir program yazın (%40 vize, %60 final).
+
+Temel Döngüler ve Koşullar (11-20)
+
+1’den N’e Kadar Toplam: Kullanıcıdan bir N sayısı alıp 1’den N’e kadar olan sayıların toplamını bulan bir program yazın.
+Faktöriyel Hesaplama: Kullanıcıdan bir sayı alıp faktöriyelini hesaplayan bir program yazın.
+Asal Sayı Kontrolü: Kullanıcıdan bir sayı alıp bunun asal olup olmadığını kontrol eden bir program yazın.
+Fibonacci Serisi: Kullanıcıdan bir N sayısı alıp ilk N Fibonacci sayısını yazdıran bir program yazın.
+Ters Çevirme: Kullanıcıdan bir sayı alıp rakamlarını ters çeviren bir program yazın (örn. 123 -> 321).
+Mükemmel Sayı: Kullanıcıdan bir sayı alıp bunun mükemmel sayı olup olmadığını kontrol eden bir program yazın (bir sayının kendisi hariç bölenlerinin toplamı kendisine eşitse).
+Yıldız Üçgeni: Ekrana aşağıdaki gibi bir yıldız üçgeni çizen bir program yazın (N satırlık):
+*
+**
+***
+****
+
+
+Çarpım Tablosu: 1’den 10’a kadar çarpım tablosunu ekrana yazdıran bir program yazın.
+Armstrong Sayısı: Kullanıcıdan bir sayı alıp bunun Armstrong sayısı olup olmadığını kontrol eden bir program yazın (örn. 153 = 1³ + 5³ + 3³).
+Sayının Rakam Toplamı: Kullanıcıdan bir sayı alıp rakamlarının toplamını bulan bir program yazın.
+
+Fonksiyonlar ve Diziler (21-30)
+
+Modüler Faktöriyel: Faktöriyel hesaplamayı bir fonksiyon içinde yapan bir program yazın.
+Dizi Toplamı: Kullanıcıdan 10 elemanlı bir dizi alıp elemanlarının toplamını bulan bir program yazın.
+En Büyük Eleman: Kullanıcıdan bir dizi alıp en büyük elemanını bulan bir fonksiyon yazın.
+Dizi Ters Çevirme: Bir dizinin elemanlarını ters çeviren bir program yazın.
+Dizi Sıralama: Bir diziyi küçükten büyüğe sıralayan bir program yazın (kabarcık sıralama kullanın).
+Matris Toplama: Kullanıcıdan iki 3x3 matris alıp toplamlarını hesaplayan bir program yazın.
+Rekürsif Fibonacci: Fibonacci serisini rekürsif bir fonksiyonla hesaplayan bir program yazın.
+Dizi Arama: Kullanıcıdan bir dizi ve bir sayı alıp sayının dizide olup olmadığını kontrol eden bir program yazın.
+Palindrom Sayı: Kullanıcıdan bir sayı alıp bunun palindrom olup olmadığını kontrol eden bir fonksiyon yazın (örn. 1221).
+Matris Çarpımı: İki 3x3 matrisin çarpımını hesaplayan bir program yazın.
+
+İşaretçiler ve Yapılar (31-40)
+
+Swap İşaretçi: İki sayının değerini işaretçiler kullanarak değiştiren bir program yazın.
+Dizi Toplamı İşaretçi: Bir dizinin elemanlarının toplamını işaretçiler kullanarak bulan bir program yazın.
+String Uzunluğu: Kullanıcıdan bir string alıp uzunluğunu işaretçilerle bulan bir program yazın.
+Yapı Tanımlama: Bir öğrenci yapısı (ad, numara, not) tanımlayıp kullanıcıdan veri alan ve ekrana yazdıran bir program yazın.
+İşaretçi ile Sayı Artırma: Bir fonksiyonda işaretçi kullanarak bir sayıyı 1 artıran bir program yazın.
+Dinamik Bellek: Kullanıcıdan bir N sayısı alıp N elemanlı bir dizi için dinamik bellek tahsis eden ve elemanlarını toplayan bir program yazın.
+String Ters Çevirme: Bir string’i işaretçiler kullanarak ters çeviren bir program yazın.
+Yapı Dizisi: 5 öğrencinin bilgilerini (ad, numara, not) bir yapı dizisinde saklayıp ortalamayı hesaplayan bir program yazın.
+İşaretçi Aritmetiği: Bir dizinin elemanlarını işaretçi aritmetiği ile ekrana yazdıran bir program yazın.
+Fonksiyon İşaretçisi: Bir toplama ve çıkarma fonksiyonunu fonksiyon işaretçisi kullanarak çağıran bir program yazın.
+
+İleri Seviye (41-50)
+
+Dosya Okuma: Bir metin dosyasından verileri okuyup ekrana yazdıran bir program yazın.
+Dosya Yazma: Kullanıcıdan alınan bir string’i bir dosyaya yazan bir program yazın.
+Karmasık Sayılar: Karmasık sayı yapısı tanımlayıp toplama ve çarpma işlemlerini yapan bir program yazın.
+Bağlı Liste: Tek yönlü bir bağlı liste oluşturup eleman ekleyen ve yazdıran bir program yazın.
+Sıralı Ekleme: Bağlı listeye sıralı eleman ekleyen bir program yazın.
+Binary Search: Bir dizide ikili arama (binary search) algoritmasını uygulayan bir program yazın.
+Hızlı Sıralama: Hızlı sıralama (quick sort) algoritmasını kullanarak bir diziyi sıralayan bir program yazın.
+Dosya Kopyalama: Bir dosyanın içeriğini başka bir dosyaya kopyalayan bir program yazın.
+Dairesel Bağlı Liste: Dairesel bağlı liste oluşturup eleman ekleyen ve yazdıran bir program yazın.
+Ağaç Yapısı: İkili arama ağacı (binary search tree) oluşturup eleman ekleyen ve inorder gezinme yapan bir program yazın.
+
